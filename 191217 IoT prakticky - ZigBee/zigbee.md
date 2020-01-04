@@ -50,10 +50,13 @@ Konfigurace:
 
 - Xiaomi Mi Wall Switch  
   [AliExpress](https://www.aliexpress.com/item/32875713201.html) - od $13.46 - cca 308 Kč  
-  (i verze bez nuláku!)
+  (i verze bez nuláku - [tady](https://www.aliexpress.com/item/32950175670.html) vyberte No neutral 1key)
 
 - Xiaomi Mi Flood Detector  
   [AliExpress](https://www.aliexpress.com/item/32828708669.html) - $14.96 - cca 343 Kč
+
+- Xiaomi Mi Relay Controller  
+  [AliExpress](https://www.aliexpress.com/item/33014653752.html) - $18.98 - cca 428 Kč
 
 ### IKEA
 
